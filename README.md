@@ -1,6 +1,6 @@
 # SMOLKEYS
 
-- ~~Will make a mod called 1-hp-units~~
+- ~~Will make a mod called 1-hp-units, eventually going to 1-hp-everything~~
 - Adding some intresting bits to [SMOLKEYS/bundles](https://github.com/SMOLKEYS/bundles)
 - *Cursed mod maker*
 - Tends to fix grammar in mods by forking them
