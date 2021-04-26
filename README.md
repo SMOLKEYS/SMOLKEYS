@@ -9,6 +9,5 @@
 - Trying to make a normal mod *(and not doing so)*
 - ***Copypastes javascript code to mods to make cursed mods***
 - ***~~Screams at mod errors~~***
-- Starting finalization on Cursed Turrets
 
 **Do not the weird or *you the die.***
