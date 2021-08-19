@@ -4,8 +4,6 @@ Currently working on Mindustry+
 
 Not working on 2R2T Hell Mod, yet.
 
-[`Mindustry+ Trello`](https://trello.com/b/WiGr9XD0/mindustry-plus)
-
 [`2R2T Hell Mod Trello`](https://trello.com/b/3AMThkig/2r2t-hell-mod)
 
 
