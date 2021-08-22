@@ -1,7 +1,5 @@
 `"a"`
 
-Currently working on Mindustry+
-
 Not working on 2R2T Hell Mod, yet.
 
 [`2R2T Hell Mod Trello`](https://trello.com/b/3AMThkig/2r2t-hell-mod)
