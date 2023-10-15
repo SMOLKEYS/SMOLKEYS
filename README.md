@@ -1,5 +1,5 @@
 <details>
-  <summary>gaming/insanity</summary>
+  <summary>Gaming/Insanity</summary>
   
 ```mermaid
 graph TD
@@ -17,6 +17,12 @@ graph TD
   I --> K[distro insanity: mint]
   J --> L[distro insanity: arch]
   F --> C
+  M[mindustry] --> N[discord]
+  A --> O[github]
+  B --> O
+  O --> C
+  O --> D
+  N --> A
 ```
 
 </details>
