@@ -1,9 +1,33 @@
-`"javascript gaming"`
+<details>
+  <summary>gaming/insanity</summary>
+  
+```mermaid
+graph TD
+  A[js gaming] --> B[java gaming]
+  B --> C[android insanity]
+  B --> D[kotlin gaming]
+  C --> E[lua gaming]
+  C --> F{linux gaming}
+  D --> C
+  C --> G[android modding]
+  G --> F
+  F --> H[distro insanity: ubuntu]
+  H --> I[distro insanity: debian]
+  I --> J[distro insanity: steamos]
+  I --> K[distro insanity: mint]
+  J --> L[distro insanity: arch]
+  F --> C
+```
 
-`"a new breakthrough"`
+</details>
 
-`"java gaming"`
+<details>
+  <summary>Stats</summary>
 
+![SMOLKEYS's Stats](https://github-readme-stats.vercel.app/api?username=SMOLKEYS&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SMOLKEYS&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=dark&title_color=b9f2ff&text_color=b9f2ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMOLKEYS&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=dark&langs_count=10&title_color=b9f2ff&text_color=00ffa0)
+![SMOLKEYS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SMOLKEYS&theme=radical&hide_border=false)
+
+![SMOLKEYS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMOLKEYS&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+</details>
