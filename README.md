@@ -1,3 +1,6 @@
+> [!WARNING]
+> entering odd areas
+
 <details>
   <summary>Gaming/Insanity</summary>
   
